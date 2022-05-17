@@ -6,4 +6,4 @@ function doBugs(){
 }
 function doTwonum(){
     console.log("dosnumm")
-}
+} 
